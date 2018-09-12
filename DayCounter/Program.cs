@@ -9,7 +9,7 @@ namespace DayCounter
             Console.WriteLine("Day(s) Counter!");
 
             
-            Console.WriteLine("Please enter any date (ex: mm/dd/yyy): ");
+            Console.WriteLine("Please enter any date (ex: mm/dd/yyyy): ");
             string FirstDate = Console.ReadLine();
 
             //parsing the input to the string
